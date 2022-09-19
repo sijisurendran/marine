@@ -1,0 +1,46 @@
+.page-title-area .title-content h2{
+    font-weight: 400;
+}
+.products-item .top img{
+    transition: 1.5s;
+}
+.modal-header{
+    background: rgb(143, 117, 172);
+    color: #000;
+
+}
+.required::after{
+    content: '*';
+    color: red;
+
+}
+@media only screen and (max-width: 767px){
+    img{
+        margin-top: -11px;
+    }
+    .page-title-area .title-content h2{
+        font-size: 28px;
+        margin-top: -80px;
+    }
+
+}
+@media only screen and (max-width: 600px){
+    img{
+        margin-top: -11px;
+    }
+    .page-title-area .title-content h2{
+        font-size: 28px;
+        margin-top: -80px;
+    }
+    
+}
+@media only screen and (max-width: 340px){
+    img{
+        margin-top: -11px;
+    }
+    .page-title-area .title-content h2{
+        font-size: 28px;
+        margin-top: -80px;
+    }
+    
+}

@@ -1,0 +1,15 @@
+.page-title-area .title-content h2{
+    font-weight: 400;
+}
+.product-details-area .top .top-content h2{
+    font-weight: 400;
+}
+.product-details-area .top .top-content .reviews li h3{
+    font-weight: 400;
+}
+.common-btn{
+    margin-top: 91px;
+}
+.product-details-area .bottom .nav-pills li a.active{
+    margin-top: 46px;
+}

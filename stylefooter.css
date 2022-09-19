@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px){
+    #footer-style{
+        line-height: 16px;
+    }
+
+}
+@media only screen and (max-width: 600px){
+    #footer-style{
+        line-height: 16px;
+    }
+    
+}
+@media only screen and (max-width: 340px){
+    #footer-style{
+        line-height: 16px;
+    }
+    
+}

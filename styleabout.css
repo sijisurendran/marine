@@ -1,0 +1,9 @@
+.page-title-area .title-content h2{
+    font-weight: 400;
+}
+.about-area .about-content .top h2{
+    font-weight: 400;
+}
+.about-area .about-content .top p:last-child{
+    line-height: 22px;
+}

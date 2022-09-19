@@ -1,0 +1,11 @@
+
+.page-title-area .title-content h2{
+    font-weight: 400;
+}
+.products-thumb span{
+    font-weight: 400;
+    line-height: 18px;
+}
+.products-item .top img{
+    transition: 2.5s;
+}
